@@ -1,0 +1,119 @@
+[
+  {
+    "id": "r001",
+    "name": "豚肉の生姜焼き",
+    "image_url": "https://placehold.co/600x400/orange/white?text=Ginger+Pork",
+    "tags": ["肉料理", "定番", "15分"],
+    "category": "main",
+    "description": "迷ったらこれ。ご飯が進む王道の味。",
+    "search_query": "豚肉の生姜焼き レシピ 簡単"
+  },
+  {
+    "id": "r002",
+    "name": "サバの味噌煮",
+    "image_url": "https://placehold.co/600x400/blue/white?text=Mackerel+Miso",
+    "tags": ["魚料理", "和食", "ヘルシー"],
+    "category": "main",
+    "description": "こってり味噌味が食欲をそそる。",
+    "search_query": "サバの味噌煮 レシピ 人気"
+  },
+  {
+    "id": "r003",
+    "name": "鶏むね肉の照り焼き",
+    "image_url": "https://placehold.co/600x400/red/white?text=Teriyaki+Chicken",
+    "tags": ["肉料理", "節約", "高タンパク"],
+    "category": "main",
+    "description": "パサつきがちな鶏むね肉もしっとり。",
+    "search_query": "鶏むね肉 照り焼き 柔らかい"
+  },
+  {
+    "id": "r004",
+    "name": "麻婆豆腐",
+    "image_url": "https://placehold.co/600x400/red/white?text=Mapo+Tofu",
+    "tags": ["中華", "辛い", "ご飯に合う"],
+    "category": "main",
+    "description": "素を使ってもOK。豆腐があればすぐできる。",
+    "search_query": "麻婆豆腐 レシピ 簡単"
+  },
+  {
+    "id": "r005",
+    "name": "鮭のムニエル",
+    "image_url": "https://placehold.co/600x400/salmon/white?text=Salmon+Meuniere",
+    "tags": ["魚料理", "洋食", "バター"],
+    "category": "main",
+    "description": "バターの香りが最高。野菜も添えて。",
+    "search_query": "鮭のムニエル 人気"
+  },
+  {
+    "id": "r006",
+    "name": "親子丼",
+    "image_url": "https://placehold.co/600x400/yellow/black?text=Oyakodon",
+    "tags": ["丼もの", "卵", "子供も好き"],
+    "category": "main",
+    "description": "とろとろ卵が決め手の一品。",
+    "search_query": "親子丼 レシピ プロ"
+  },
+  {
+    "id": "r007",
+    "name": "肉じゃが",
+    "image_url": "https://placehold.co/600x400/brown/white?text=Nikujaga",
+    "tags": ["煮物", "和食", "野菜たっぷり"],
+    "category": "main",
+    "description": "ほっこりする家庭の味。",
+    "search_query": "肉じゃが レシピ 基本"
+  },
+  {
+    "id": "r008",
+    "name": "オムライス",
+    "image_url": "https://placehold.co/600x400/yellow/red?text=Omurice",
+    "tags": ["洋食", "卵", "休日ランチ"],
+    "category": "main",
+    "description": "ケチャップライスと卵の相性が抜群。",
+    "search_query": "オムライス ふわとろ レシピ"
+  },
+  {
+    "id": "r009",
+    "name": "豚キムチ炒め",
+    "image_url": "https://placehold.co/600x400/red/white?text=Pork+Kimchi",
+    "tags": ["韓国風", "辛い", "スタミナ"],
+    "category": "main",
+    "description": "疲れた時はこれでスタミナ回復。",
+    "search_query": "豚キムチ 黄金比"
+  },
+  {
+    "id": "r010",
+    "name": "カレイの煮付け",
+    "image_url": "https://placehold.co/600x400/grey/white?text=Flounder+Stew",
+    "tags": ["魚料理", "和食", "優しい味"],
+    "category": "main",
+    "description": "甘辛いタレが染みた柔らかい身。",
+    "search_query": "カレイの煮付け 失敗しない"
+  },
+  {
+    "id": "j01",
+    "name": "ウーバーイーツ",
+    "image_url": "https://placehold.co/600x400/purple/white?text=UberEats",
+    "tags": ["外食", "手抜き", "救済措置"],
+    "category": "joker",
+    "description": "今日はお疲れ様。配達に任せましょう。",
+    "search_query": "UberEats"
+  },
+  {
+    "id": "j02",
+    "name": "冷凍餃子",
+    "image_url": "https://placehold.co/600x400/blue/white?text=Frozen+Gyoza",
+    "tags": ["冷凍食品", "簡単", "救済措置"],
+    "category": "joker",
+    "description": "フライパンで焼くだけ。手軽で美味しい。",
+    "search_query": "冷凍餃子 焼き方"
+  },
+  {
+    "id": "j03",
+    "name": "近所のスーパーの惣菜",
+    "image_url": "https://placehold.co/600x400/green/white?text=Supermarket+Side+Dish",
+    "tags": ["中食", "手抜き", "救済措置"],
+    "category": "joker",
+    "description": "スーパーのお惣菜コーナーで決めましょう。",
+    "search_query": "スーパー 惣菜"
+  }
+]
